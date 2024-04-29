@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home_text">MOTIVATION</string>
+    <string name="categories_Text">Categories</string>
+    <string name="quotes_content">Quotes</string>
+    <string name="quote_text">Quote Text</string>
+    <string name="writer_name">Writer Name</string>
+    <string name="prev">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="add_quote">Add Quote</string>
+    <string name="back">Back</string>
+    <string name="category_name">Category_Name</string>
+    <string name="author">Author</string>
+    <string name="quote">Quote</string>
+    <string name="add_your_own_quote">Add your own Quote</string>
+    <string name="author_dialog">Author</string>
+    <string name="quote_dialog">Quote</string>
+</resources>
